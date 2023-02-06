@@ -1,1 +1,1 @@
-https://algoslab.github.io/architect/telecommunication
+https://algoslab.github.io/telecommunication
