@@ -1,1 +1,1 @@
-https://bit2lead.github.io/architect/
+https://algoslab.github.io/architect/telecommunication
